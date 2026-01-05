@@ -276,3 +276,23 @@ body.page2 {
   text-align: center;
   padding: 15px;
 }
+/* ================= TIME BOX (JAM) ================= */
+.time-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;     /* center horizontal */
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+#ucapan {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#jam {
+  font-size: 16px;
+}
+
+
